@@ -1,0 +1,2 @@
+ <a name="reportMissingImports"></a> **reportMissingImports** [boolean or string, optional]: Generate or suppress diagnostics for imports that have no corresponding imported python file or type stub file. The default value for this setting is `"error"`.
+To enable this feature, set the value to `true`, `false`, or `"warning"` to control the level of diagnostics produced.
